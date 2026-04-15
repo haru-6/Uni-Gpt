@@ -536,20 +536,3 @@ For sensitive inquiries, always escalate to appropriate human representatives.
 
 ---
 
-## Contact
-
-- 📧 Email: [shahdeep1406@gmail.com](mailto:shahdeep1406@gmail.com)
-- 🐙 GitHub: [DeepShah1406](https://github.com/DeepShah1406)
-- 💼 LinkedIn: [deepshah1406](https://www.linkedin.com/in/deepshah1406)
-
----
-
-## **Acknowledgments**
-
-- **LangChain**: For building robust chains of logic for querying and text processing.
-- **Chroma**: For efficiently managing and querying vectorized data.
-
----
-
-**Last Updated**: December 2025  
-**Version**: 1.0.0
