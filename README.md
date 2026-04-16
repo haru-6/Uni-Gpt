@@ -218,7 +218,7 @@ Edit `config.json` and add your Groq API key:
 
 ### Step 3: Update College Name Throughout Code
 
-The codebase contains placeholder text `"College Name"` that should be replaced with your actual college name. Key files:
+The codebase contains placeholder text `"K. R. Mangalam"` that should be replaced with your actual college name. Key files:
 
 - **`main.py`**: Update system prompts, page titles, and UI text
 - **`vectorize_documents.py`**: Update any prompts or labels (if modified)
@@ -226,7 +226,7 @@ The codebase contains placeholder text `"College Name"` that should be replaced 
 Use Find & Replace (Ctrl+H or Cmd+H) to replace all instances:
 
 ```
-Find:    "College Name"
+Find:    "K. R. Mangalam"
 Replace: "Your Actual College Name"
 ```
 
