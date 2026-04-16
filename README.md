@@ -207,13 +207,13 @@ Edit `config.json` and add your Groq API key:
 ```json
 {
   "GROQ_API_KEY": "gsk_your_actual_api_key_here",
-  "COLLEGE_NAME": "Your College Name"
+  "COLLEGE_NAME": "K. R. Mangalam"
 }
 ```
 
 **Important**: 
 - Replace `gsk_your_actual_api_key_here` with your actual Groq API key
-- Replace `Your College Name` with your college's actual name
+- Replace `K. R. Mangalam` with your college's actual name
 - **Never commit `config.json` to version control** - add it to `.gitignore`
 
 ### Step 3: Update College Name Throughout Code
