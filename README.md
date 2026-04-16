@@ -243,8 +243,7 @@ pytesseract.pytesseract.tesseract_cmd = '/usr/local/bin/tesseract'
 
 # On Linux
 pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'
-```
-
+```   
 ---
 
 ## Adding College Data to Vector Database
